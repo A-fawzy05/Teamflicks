@@ -55,7 +55,7 @@ Follow these steps to get the project up and running:
     ```
 
     *Replace `your_mongodb_connection_string` with your MongoDB connection string and `your_jwt_secret_key` with a secure secret key.*
-
+    NOTE: to add an admin account you need to add gmail: Admin@Admin.com , and password is set to "Admin0" to access the admin functionalites
 5.  **Start the backend server:**
 
     ```bash
