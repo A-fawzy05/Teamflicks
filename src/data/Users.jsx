@@ -1,0 +1,23 @@
+export const users = [
+    { id: 0, name: "Admin", email: "Admin@Admin.com", password: "Admin0", subscription: "premium" },
+    { id: 1, name: "Alice Johnson", email: "alice.johnson@example.com", password: "password123", subscription: "premium" },
+    { id: 2, name: "Bob Smith", email: "bob.smith@example.com", password: "bobpassword", subscription: "standard" },
+    { id: 3, name: "Charlie Brown", email: "charlie.brown@example.com", password: "charliepass", subscription: "none" },
+    { id: 4, name: "David Lee", email: "david.lee@example.com", password: "david2025", subscription: "basic" },
+    { id: 5, name: "Emma Davis", email: "emma.davis@example.com", password: "emmapassword", subscription: "premium" },
+    { id: 6, name: "Frank White", email: "frank.white@example.com", password: "frank1234", subscription: "none" },
+    { id: 7, name: "Grace Williams", email: "grace.williams@example.com", password: "gracepass", subscription: "standard" },
+    { id: 8, name: "Henry Miller", email: "henry.miller@example.com", password: "henrypassword", subscription: "basic" },
+    { id: 9, name: "Ivy Clark", email: "ivy.clark@example.com", password: "ivy2023", subscription: "premium" },
+    { id: 10, name: "James Martinez", email: "james.martinez@example.com", password: "jamespass", subscription: "none" },
+    { id: 11, name: "Karen Taylor", email: "karen.taylor@example.com", password: "karen123", subscription: "standard" },
+    { id: 12, name: "Liam Anderson", email: "liam.anderson@example.com", password: "liampassword", subscription: "basic" },
+    { id: 13, name: "Mia Thomas", email: "mia.thomas@example.com", password: "miapass123", subscription: "premium" },
+    { id: 14, name: "Nathan Walker", email: "nathan.walker@example.com", password: "nathanpass", subscription: "none" },
+    { id: 15, name: "Olivia Harris", email: "olivia.harris@example.com", password: "olivia2023", subscription: "standard" },
+    { id: 16, name: "Paul King", email: "paul.king@example.com", password: "paulpass", subscription: "premium" },
+    { id: 17, name: "Quincy Scott", email: "quincy.scott@example.com", password: "quincy123", subscription: "basic" },
+    { id: 18, name: "Rachel Allen", email: "rachel.allen@example.com", password: "rachelpass", subscription: "none" },
+    { id: 19, name: "Sophia Young", email: "sophia.young@example.com", password: "sophiapassword", subscription: "standard" },
+    { id: 20, name: "Tom Robinson", email: "tom.robinson@example.com", password: "tom2025", subscription: "premium" }
+  ];
